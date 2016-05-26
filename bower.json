@@ -1,0 +1,22 @@
+{
+  "name": "databaseClassExercise",
+  "homepage": "https://github.com/benwilburn/databaseClassExercise",
+  "authors": [
+    "Benjamin Wilburn <bwilburnstrength@gmail.com>"
+  ],
+  "description": "class project",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6"
+  }
+}
